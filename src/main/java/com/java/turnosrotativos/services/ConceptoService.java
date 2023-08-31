@@ -1,8 +1,8 @@
-package com.neoris.turnosrotativos.services;
+package com.java.turnosrotativos.services;
 
 import java.util.List;
 
-import com.neoris.turnosrotativos.entities.Concepto;
+import com.java.turnosrotativos.entities.Concepto;
 
 public interface ConceptoService {
 

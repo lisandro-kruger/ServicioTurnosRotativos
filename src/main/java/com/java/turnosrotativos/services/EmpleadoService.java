@@ -1,10 +1,10 @@
-package com.neoris.turnosrotativos.services;
+package com.java.turnosrotativos.services;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.neoris.turnosrotativos.entities.Empleado;
-import com.neoris.turnosrotativos.exceptions.BussinessException;
+import com.java.turnosrotativos.entities.Empleado;
+import com.java.turnosrotativos.exceptions.BussinessException;
 
 public interface EmpleadoService {
 

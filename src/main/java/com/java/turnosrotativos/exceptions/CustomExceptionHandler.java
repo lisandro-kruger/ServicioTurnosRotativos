@@ -1,4 +1,4 @@
-package com.neoris.turnosrotativos.exceptions;
+package com.java.turnosrotativos.exceptions;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

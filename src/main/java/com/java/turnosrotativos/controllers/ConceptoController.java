@@ -1,4 +1,4 @@
-package com.neoris.turnosrotativos.controllers;
+package com.java.turnosrotativos.controllers;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.neoris.turnosrotativos.entities.Concepto;
-import com.neoris.turnosrotativos.services.Impl.ConceptoServiceImpl;
+import com.java.turnosrotativos.entities.Concepto;
+import com.java.turnosrotativos.services.Impl.ConceptoServiceImpl;
 
 @RestController
 public class ConceptoController {

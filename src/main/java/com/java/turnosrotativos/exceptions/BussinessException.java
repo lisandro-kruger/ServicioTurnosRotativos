@@ -1,4 +1,4 @@
-package com.neoris.turnosrotativos.exceptions;
+package com.java.turnosrotativos.exceptions;
 
 public class BussinessException extends RuntimeException {
 

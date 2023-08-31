@@ -1,4 +1,4 @@
-package com.neoris.turnosrotativos.requests;
+package com.java.turnosrotativos.requests;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -13,7 +13,7 @@ import javax.validation.constraints.Pattern;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.stereotype.Component;
 
-import com.neoris.turnosrotativos.entities.Empleado;
+import com.java.turnosrotativos.entities.Empleado;
 
 @Component
 public class EmpleadoRequest {

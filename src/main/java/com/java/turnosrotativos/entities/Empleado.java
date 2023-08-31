@@ -1,4 +1,4 @@
-package com.neoris.turnosrotativos.entities;
+package com.java.turnosrotativos.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

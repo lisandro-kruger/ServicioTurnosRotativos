@@ -1,4 +1,4 @@
-package com.neoris.turnosrotativos.controllers;
+package com.java.turnosrotativos.controllers;
 
 import java.time.LocalDate;
 import java.time.Period;
@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.neoris.turnosrotativos.entities.Empleado;
-import com.neoris.turnosrotativos.requests.EmpleadoRequest;
-import com.neoris.turnosrotativos.services.Impl.EmpleadoServiceImpl;
+import com.java.turnosrotativos.entities.Empleado;
+import com.java.turnosrotativos.requests.EmpleadoRequest;
+import com.java.turnosrotativos.services.Impl.EmpleadoServiceImpl;
 
 @RestController
 public class EmpleadoController {

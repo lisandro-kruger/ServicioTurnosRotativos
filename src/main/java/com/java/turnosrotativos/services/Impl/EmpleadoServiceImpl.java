@@ -1,4 +1,4 @@
-package com.neoris.turnosrotativos.services.Impl;
+package com.java.turnosrotativos.services.Impl;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,10 +6,10 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.neoris.turnosrotativos.entities.Empleado;
-import com.neoris.turnosrotativos.exceptions.BussinessException;
-import com.neoris.turnosrotativos.repositories.EmpleadoRepository;
-import com.neoris.turnosrotativos.services.EmpleadoService;
+import com.java.turnosrotativos.entities.Empleado;
+import com.java.turnosrotativos.exceptions.BussinessException;
+import com.java.turnosrotativos.repositories.EmpleadoRepository;
+import com.java.turnosrotativos.services.EmpleadoService;
 
 @Service
 public class EmpleadoServiceImpl implements EmpleadoService {
