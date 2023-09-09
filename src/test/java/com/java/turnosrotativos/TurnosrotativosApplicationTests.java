@@ -1,4 +1,4 @@
-package com.neoris.turnosrotativos;
+package com.java.turnosrotativos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
